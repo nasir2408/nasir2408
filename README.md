@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python, Machine Learning and Game Developing.
 - 🌱 I’m currently learning ... Machine Learning, Game Development using Unity Engine.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... nasirshaikh2408@gmail.com
 
 <!---
 nasir2408/nasir2408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
